@@ -41,7 +41,6 @@ public/dist/
 
 # Internal Test Files # (Check as per project)
 ######################
-src/playground
 .env.test
 .env.development
 .cache
